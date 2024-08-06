@@ -33,3 +33,13 @@ Includes visual cues for score changes and sorting animations.
 Responsive Design:
 
 Ensures the app is responsive and looks good on different screen sizes.
+
+Usage
+Open index.html in your preferred web browser.
+Enter player details and click "Add Score" to add players to the leaderboard.
+Use the "+5" and "-5" buttons to adjust player scores.
+Click the "Delete" button to remove a player from the leaderboard.
+Files
+index.html: The main HTML file containing the structure of the app.
+styles.css: The CSS file for styling the app.
+script.js: The JavaScript file for adding interactivity to the app.
